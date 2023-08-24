@@ -15,7 +15,7 @@ Learning outcome.  Installing Tools and showing usage of VSCode.
 - Thursday - Setup Tools on laptop and/or Cloud Computer.
 - Friday - Review and test as a Pair. Spend 25 minutes at one keyboard then switch for next 25 minutes.
 
-### Hack Prepartation
+### Hack Preparation
 > Look for 'Hacks' to know what to do next.  Try to be done and learn your machine before Monday EOD.
 - A laptop, that you bring to class every day with ability to operate Development Tools on it or within the Cloud.
 - GitHub Account, VSCode will be used to push/pull changes. GitHub is where we store and share code in the cloud, think of Google Docs but for Code.
