@@ -2,8 +2,8 @@ title: Turtle 2 (Electric Boogaloo)
 description: "August 2023 to June 2024"
 owner_name: Haseeb Beg
 github_username: h4seeb-cmd
-github_repo: "Mort-Pages"
-baseurl: "/turtle2"
+github_repo: "CSA-BLOG"
+baseurl: "/CSA-BLOG"
 remote_theme: jekyll/minima
 minima:
   social_links:
