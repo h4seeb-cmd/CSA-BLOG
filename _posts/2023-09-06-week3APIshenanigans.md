@@ -2,12 +2,11 @@
 toc: true
 comments: false
 layout: post
-title: JS Shenanigans
-description: JS API shenanigans
+title: big anime tiddies
+description: TOXIC WASTE HERE! dO NOT HENTEREEE!!!!!!!
 type: hacks
 courses: { compsci: {week: 3} }
 ---
-
 
   <head>
     <meta charset="UTF-8" />
@@ -17,9 +16,9 @@ courses: { compsci: {week: 3} }
   <body>
     <h1>Fetch API Image Example</h1>
     <button id="fetch-image-button">~click me uwu~</button>
-    <img src=x></img>
+    <div id="image-container"></div>
     <script>
-        const settings = {
+            const settings = {
             async: true,
             crossDomain: true,
             url: 'https://any-anime.p.rapidapi.com/anime/gif',
@@ -37,5 +36,5 @@ courses: { compsci: {week: 3} }
         button.onclick = function() {
                 settings(); // Call the function when the button is clicked
             }
- </script>
+    </script>
 </body>
