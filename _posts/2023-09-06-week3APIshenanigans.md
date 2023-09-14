@@ -2,8 +2,8 @@
 toc: true
 comments: false
 layout: post
-title: big anime tiddies
-description: TOXIC WASTE HERE! dO NOT HENTEREEE!!!!!!!
+title: waifu api draft!!!@!!@!
+description: cant do this anymore 
 type: hacks
 courses: { compsci: {week: 3} }
 ---
