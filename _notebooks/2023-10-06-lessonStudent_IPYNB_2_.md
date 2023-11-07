@@ -4,7 +4,7 @@ comments: True
 layout: post
 title: U9 Inheritance P1 Student
 description: Lesson on Java class hierarchy.
-type: ccc
+type: tangibles
 courses: {'csa': {'week': 11}}
 authors: David, Alex, Drew, Derrick, Jishnu
 ---
