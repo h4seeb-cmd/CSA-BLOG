@@ -5,7 +5,7 @@ layout: post
 title: 2 Tri Project Planning
 description: Planning out the project
 type: plans
-courses: { compsci: {week: 18} }
+courses: { compsci: {week: 19} }
 ---
 
 # The Concept:
