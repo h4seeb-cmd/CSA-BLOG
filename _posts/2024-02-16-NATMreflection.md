@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: NATM 
-description: Showing off key indicators
+description: NATM Reflection and Interests!
 type: tangibles
 courses: { compsci: {week: 33} }
 ---
