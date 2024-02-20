@@ -11,6 +11,8 @@ courses: { compsci: {week: 33} }
 ## Our Presentation
 Overall, the presentation went pretty well, and a lot of people seemed to be interested in our project. However, we did get some constructive criticism on things we could do better.
 
+I was in charge of presenting our product to people more interested in the technical side of the project rather than the agriculture side, Tirth was in charge of presenting the product to people more interested in the agricultural side, Ryan showcased the demo, and Sreeja initated conversation with people and got them hooked to our presentation.
+
 Glows:
 - Good proof of concept, idea of game very good. Simulation, while it could've been more fleshed out for this demo, people had lots of fun planting corn!
 - Good presentation style, very approachable. Specialized presentations were a good idea.
