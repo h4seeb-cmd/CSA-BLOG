@@ -32,6 +32,13 @@ Both sides would fight in class constantly, but after WAY too long, I was able t
 ### Planning
 Our planning was pretty bad, with us needing to work on actually coordinate and get on our stuff. 
 
+# Things We Did Right Compared to Others
+- Music! That was me, I spent some time finding fitting music which made the atmosphere of the performace better, and judges liked it. 
+- EMOTION! Although Rohin didn't memorize his lines, he had a lot of energy in his delivery, which more than made up for his lack of memorization work. Bharghav did a good job with his comedic relief delivery as well. 
+
+# Things We Did Wrong
+- Overall performace. Rohin didn't memorize his lines, had to read from his phone, and some things went on for too long or too short. 
+- As previously said, due to bad communication and issues with interpersonal team relationships, our practices were definitely a struggle. Other teams had a much smoother time with their practices.
 
 # Videos:
 
